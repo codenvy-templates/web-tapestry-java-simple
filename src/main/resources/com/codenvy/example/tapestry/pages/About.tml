@@ -1,0 +1,7 @@
+<html t:type="layout" title="About web-tapestry-java-simple"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About web-tapestry-java-simple application ...</p>
+
+</html>
